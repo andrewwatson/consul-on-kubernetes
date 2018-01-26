@@ -16,7 +16,7 @@ This tutorial leverages features available in Kubernetes 1.6.0 and later.
 The following clients must be installed on the machine used to follow this tutorial:
 
 * [consul](https://www.consul.io/downloads.html) 0.9.0
-* [cfssl](https://pkg.cfssl.org) and [cfssljson](https://pkg.cfssl.org) 1.2
+* [cfssl](https://github.com/cloudflare/cfssl) and [cfssljson](https://github.com/cloudflare/cfssl) 1.2
 
 ## Usage
 
